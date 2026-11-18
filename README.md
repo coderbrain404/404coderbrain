@@ -1,10 +1,11 @@
-![banner](assets/banner.png)
+<p align="center">
+  <img src="assets/paper-full.png" width="100%" alt="404coderbrain 主页纸面版：线稿Q版彩铅，芽芽×大肥鱼，方格纸底／纸胶带／铅笔角标／手绘下划线">
+</p>
 
-> 头图里的两位：芽芽 & 大肥鱼 —— 一个写代码，一个吃白米饭，一起守护这个主页。
+<details>
+<summary>📄 文字版（可选中 / 可搜索 / 活徽章）</summary>
 
-# <img src="assets/icons/yaya-hi.png" width="24" alt=""> Hi, I'm 404coderbrain
-
-<img src="assets/underline-sprout.svg" width="260" alt="">
+# 👋 Hi, I'm 404coderbrain
 
 欢迎来到我的 GitHub 个人主页！
 
@@ -12,11 +13,9 @@
 
 我喜欢探索新的技术，也希望通过 GitHub 记录自己的学习过程、项目实践和成长经历。
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/yaya-about.png" width="22" alt=""> About Me
-
-<img src="assets/underline-sprout.svg" width="260" alt="">
+## 🙋 About Me
 
 * 🎓 专业：计算机科学与技术
 * 🏫 学校：福州大学
@@ -26,11 +25,9 @@
 
 在大学学习过程中，我逐渐认识到，仅仅掌握课本知识是不够的，因此我希望通过实际项目、课程实验和竞赛不断提高自己的实践能力。
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/yaya-skills.png" width="22" alt=""> Skills
-
-<img src="assets/underline-sprout.svg" width="260" alt="">
+## 🛠 Skills
 
 ### Programming Languages
 
@@ -55,11 +52,9 @@
 * 数学建模
 * 文档与项目管理
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/fish-projects.png" width="22" alt=""> Projects & Experience
-
-<img src="assets/underline-whale.svg" width="260" alt="">
+## 🚀 Projects & Experience
 
 ### 📊 数学建模实践
 
@@ -85,11 +80,9 @@
 
 这些实践让我逐渐掌握了从“分析问题”到“编写程序解决问题”的基本过程。
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/fish-assess.png" width="22" alt=""> Self Assessment
-
-<img src="assets/underline-whale.svg" width="260" alt="">
+## 📈 Self Assessment
 
 经过目前的专业学习，我已经掌握了一定的计算机基础知识和程序设计能力。
 
@@ -122,11 +115,9 @@
 * 软件工程与项目开发
 * 大型项目协作
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/yaya-plan.png" width="22" alt=""> Three-Year Plan
-
-<img src="assets/underline-sprout.svg" width="260" alt="">
+## 🎯 Three-Year Plan
 
 ### 📅 第一阶段：夯实基础
 
@@ -150,11 +141,9 @@
 
 无论最终选择考研还是就业，我都希望通过接下三年专业学习和项目实践，形成比较完整的计算机专业知识体系，并具备独立分析和解决实际问题的能力。
 
-<img src="assets/divider-line.svg" width="100%" alt="">
+---
 
-## <img src="assets/icons/fish-goal.png" width="22" alt=""> My Goal
-
-<img src="assets/underline-whale.svg" width="260" alt="">
+## 🌱 My Goal
 
 > Keep learning, keep coding, keep improving.
 
@@ -163,5 +152,7 @@
 这里不仅是我的代码仓库，也是我大学学习和成长的记录。
 
 ⭐ Thanks for visiting my profile!
+
+</details>
 
 <!-- // stay curious, keep growing. -->
