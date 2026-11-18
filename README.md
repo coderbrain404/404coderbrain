@@ -4,7 +4,8 @@
 
 <details>
 <summary>📄 文字版（可选中 / 可搜索 / 活徽章）</summary>
-![banner](assets/banner.png)
+
+<img src="assets/banner.png" width="100%" alt="线稿彩铅横幅：芽芽在木桌前敲代码，大肥鱼捧白米饭">
 
 > 头图里的两位：芽芽 & 大肥鱼 —— 一个写代码，一个吃白米饭，一起守护这个主页。
 
