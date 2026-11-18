@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/paper-full.png" width="100%" alt="404coderbrain 主页纸面版：线稿Q版彩铅，芽芽×大肥鱼，方格纸底／纸胶带／铅笔角标／手绘下划线">
+  <img src="assets/paper-full.png" width="100%" alt="coderbrain404 主页纸面版：线稿Q版彩铅，芽芽×大肥鱼，方格纸底／纸胶带／铅笔角标／手绘下划线">
 </p>
 
 <details>
 <summary>📄 文字版（可选中 / 可搜索 / 活徽章）</summary>
 
-# 👋 Hi, I'm 404coderbrain
+# 👋 Hi, I'm coderbrain404
 
 欢迎来到我的 GitHub 个人主页！
 
