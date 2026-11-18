@@ -1,4 +1,10 @@
-# 👋 Hi, I'm 404coderbrain
+![banner](assets/banner.png)
+
+> 头图里的两位：芽芽 & 大肥鱼 —— 一个写代码，一个吃白米饭，一起守护这个主页。
+
+# <img src="assets/icons/yaya-hi.png" width="24" alt=""> Hi, I'm 404coderbrain
+
+<img src="assets/underline-sprout.svg" width="260" alt="">
 
 欢迎来到我的 GitHub 个人主页！
 
@@ -6,36 +12,41 @@
 
 我喜欢探索新的技术，也希望通过 GitHub 记录自己的学习过程、项目实践和成长经历。
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 🙋 About Me
+## <img src="assets/icons/yaya-about.png" width="22" alt=""> About Me
+
+<img src="assets/underline-sprout.svg" width="260" alt="">
 
 * 🎓 专业：计算机科学与技术
 * 🏫 学校：福州大学
-* 💻 兴趣方向： 数据分析 / 人工智能 
+* 💻 兴趣方向：数据分析 / 人工智能
 * 📚 当前正在学习：Linux、数据库、机器学习
 * 🎯 目标：不断提高自己的编程能力和项目实践能力
 
-
 在大学学习过程中，我逐渐认识到，仅仅掌握课本知识是不够的，因此我希望通过实际项目、课程实验和竞赛不断提高自己的实践能力。
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 🛠 Skills
+## <img src="assets/icons/yaya-skills.png" width="22" alt=""> Skills
+
+<img src="assets/underline-sprout.svg" width="260" alt="">
 
 ### Programming Languages
 
-* Python
-* C++
-* HTML / CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Tools
 
-* Git & GitHub
-* Visual Studio Code
-* Linux
-* Jupyter Notebook
-* LaTeX
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Professional Skills
 
@@ -44,9 +55,11 @@
 * 数学建模
 * 文档与项目管理
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 🚀 Projects & Experience
+## <img src="assets/icons/fish-projects.png" width="22" alt=""> Projects & Experience
+
+<img src="assets/underline-whale.svg" width="260" alt="">
 
 ### 📊 数学建模实践
 
@@ -72,13 +85,15 @@
 
 这些实践让我逐渐掌握了从“分析问题”到“编写程序解决问题”的基本过程。
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 📈 Self Assessment
+## <img src="assets/icons/fish-assess.png" width="22" alt=""> Self Assessment
+
+<img src="assets/underline-whale.svg" width="260" alt="">
 
 经过目前的专业学习，我已经掌握了一定的计算机基础知识和程序设计能力。
 
-目前我能够使用 Python 和 C++ 完成基本的数据处理、算法实现和程序设计任务，同时对Linux、Git、数学建模和数据可视化有了一定了解。
+目前我能够使用 Python 和 C++ 完成基本的数据处理、算法实现和程序设计任务，同时对 Linux、Git、数学建模和数据可视化有了一定了解。
 
 但我认为自己在大型项目开发、算法能力以及人工智能等方面仍然需要进一步提高。
 
@@ -92,8 +107,6 @@
 
 ### 感兴趣的技术方向
 
-我目前比较感兴趣的方向包括：
-
 * Artificial Intelligence
 * Machine Learning
 * Data Science
@@ -102,8 +115,6 @@
 
 ### 最希望进一步学习
 
-未来希望重点学习：
-
 * 数据结构与算法
 * Python 高级编程
 * 机器学习与深度学习
@@ -111,9 +122,11 @@
 * 软件工程与项目开发
 * 大型项目协作
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 🎯 Three-Year Plan
+## <img src="assets/icons/yaya-plan.png" width="22" alt=""> Three-Year Plan
+
+<img src="assets/underline-sprout.svg" width="260" alt="">
 
 ### 📅 第一阶段：夯实基础
 
@@ -137,9 +150,11 @@
 
 无论最终选择考研还是就业，我都希望通过接下三年专业学习和项目实践，形成比较完整的计算机专业知识体系，并具备独立分析和解决实际问题的能力。
 
----
+<img src="assets/divider-line.svg" width="100%" alt="">
 
-## 🌱 My Goal
+## <img src="assets/icons/fish-goal.png" width="22" alt=""> My Goal
+
+<img src="assets/underline-whale.svg" width="260" alt="">
 
 > Keep learning, keep coding, keep improving.
 
@@ -148,3 +163,5 @@
 这里不仅是我的代码仓库，也是我大学学习和成长的记录。
 
 ⭐ Thanks for visiting my profile!
+
+<!-- // stay curious, keep growing. -->
